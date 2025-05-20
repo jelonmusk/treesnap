@@ -1,6 +1,6 @@
-# 🌳📸 TreeSnap – Instantly Snap Your Project Structure
+# 🌳📸 [TreeSnap](https://marketplace.visualstudio.com/items?itemName=jelonmusk.treesnap&ssr=false#overview) – Instantly Snap Your Project Structure
 
-**TreeSnap** is your no-brainer sidekick for visualizing and sharing your project’s folder structure in seconds — whether you're documenting, tweeting, or just trying to understand a messy repo.
+[**TreeSnap**](https://marketplace.visualstudio.com/items?itemName=jelonmusk.treesnap&ssr=false#overview) is your no-brainer sidekick for visualizing and sharing your project’s folder structure in seconds — whether you're documenting, tweeting, or just trying to understand a messy repo.
 
 ## Why TreeSnap?
 
@@ -99,7 +99,7 @@ Or simply open the **Command Palette** (`Ctrl + Shift + P` or `Cmd + Shift + P`)
 
 ## 📦 Installation
 
-You can install **TreeSnap** from the [Visual Studio Code Marketplace](https://marketplace.visualstudio.com) (link will be available after publishing), or search for it directly in the Extensions panel in VS Code.
+You can install **TreeSnap** from the [Visual Studio Code Marketplace](https://marketplace.visualstudio.com/items?itemName=jelonmusk.treesnap&ssr=false#overview), or search for it directly in the Extensions panel in VS Code.
 
 
 
